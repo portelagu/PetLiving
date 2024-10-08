@@ -1,0 +1,35 @@
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+    background: #F1F1F1;
+    padding: 15px 50px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.list {
+    display: flex;
+    gap: 40px;
+}
+
+.list-item {
+    list-style: none;
+}
+
+.list-item-link {
+    text-decoration: none;
+    color: #00296B;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.list-button-link {
+    text-decoration: none;
+    font-size: 14px;
+    color: #FFF;
+    font-weight: 600;
+    background-color: #00296B;
+    padding: 10px 20px;
+    border-radius: 29px;
+}
