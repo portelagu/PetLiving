@@ -1,0 +1,21 @@
+.data-container {
+    background-color: #F1F1F1;
+    max-width: 340px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.data-title {
+    font-size: 50px;
+    color: #144490;
+}
+
+.data-subtitle{
+    font-size: 20px;
+    color: #0B2D62;
+}
+
+.data-text {
+    color: #393F48;
+}

@@ -1,0 +1,39 @@
+.service-container {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+.container-informations-right{
+    max-width: 807px;
+    background-color: #F1F1F1;
+    padding: 10px 30px;
+    border-radius: 20px 0 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-title {
+    font-size: 35px;
+    color: #144490;
+}
+
+.container-text {
+    color: #2a2d33;
+    font-weight: 400;
+}
+
+.container-button {
+    font-weight: 600;
+    padding: 10px 0;
+    
+}
+
+.container-link{
+    color: #144490; 
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: #FDC500;
+    padding: 5px 10px;
+}

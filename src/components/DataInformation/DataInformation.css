@@ -1,0 +1,6 @@
+.data-information-section {
+    background-image: url(../../assets/imagens/background-data.svg);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 300px;
+}

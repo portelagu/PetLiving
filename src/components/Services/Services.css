@@ -1,0 +1,12 @@
+.services-section {
+    background-color: #D4D4D4;
+}
+
+.section-title {
+    font-size: 50px;
+    color: #144490;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
