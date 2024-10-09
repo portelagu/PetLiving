@@ -1,0 +1,34 @@
+.contactus-section {
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+background-color: #D4D4D4;
+padding: 50px 0;
+}
+
+.contactus-title {
+    color: #144490;
+    font-size: 50px;
+}
+
+.contactus-text {
+    color: #393F48;
+    font-weight: 500;
+    max-width: 1069px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.contactus-button {
+    background-color: #144490;
+    border-radius: 29px;
+    padding: 10px 30px;
+    margin-top: 5px;
+}
+
+.contactus-link {
+    color: #FFF;
+    text-decoration: none;
+    font-weight: 600;
+}
