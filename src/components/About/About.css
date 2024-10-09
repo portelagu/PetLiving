@@ -3,6 +3,7 @@ background-color: #D4D4D4;
 }
 
 .about-container {
+    border-radius: 70px 70px 0 0;
     padding: 35px 20px;
     background-color: #144490;
     display: flex;
