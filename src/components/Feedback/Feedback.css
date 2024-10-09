@@ -1,3 +1,30 @@
+.yellow-line {
+    background-color: #FDC500;
+    padding: 3px 0;
+}
+
+.feedback-title-subtitle {
+    background-color: #144490;
+}
+
 .feedback-section {
     background-color: #144490;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 300px;
+}
+
+.feedback-title {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #D4D4D4;
+    font-size: 50px;
+}
+
+.feedback-subtitle {
+    display: flex;
+    justify-content: center;
+    color: #D4D4D4;
+    font-size: 400;
 }
