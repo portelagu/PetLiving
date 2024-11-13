@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="./assets/imagens/Preview.png" alt="mockup da telas desenvolvida no Figma">
+<img src="./src/assets/imagens/Preview.png" alt="mockup da telas desenvolvida no Figma">
 </div>
 
 # PetLiving 🐶
@@ -15,7 +15,7 @@
 
 ## Demonstração
 
-Acesse o projeto hospedado para uma demonstração ao vivo:
+Acesse o projeto hospedado para uma demonstração:
 
 [PetLiving - Demo](https://pet-living.vercel.app/)
 
