@@ -1,6 +1,15 @@
 .service-container {
     display: flex;
     justify-content: center;
+    padding: 15px 0;
+    transition: 0.25s;
+}
+
+.service-container:hover {
+    display: flex;
+    justify-content: center;
+    padding: 30px 10px;
+    transition: 0.25s;
 }
 
 .container-informations{

@@ -1,6 +1,6 @@
 .feedback-container {
-    max-width: 280px;
-    height: 290px;
+    max-width: 400px;
+    height: 300px;
     background-color: #F1F1F1;
     border-radius: 10px;
 }
@@ -15,14 +15,14 @@
 }
 
 .feedback-user-name {
-    font-size: 13px;
+    font-size: 16px;
     color: #144490;
     padding: 0;
 }
 
 .feedback-user-date {
     color: #144490;
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 500;
     padding: 0;
 }
@@ -30,6 +30,6 @@
 .feedback-user-text {
     color: #141414;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 17px;
     padding: 0 10px;
 }

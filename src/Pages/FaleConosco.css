@@ -1,0 +1,96 @@
+.faleconosco-form {
+    background-color: #D4D4D4;
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.form-and-image {
+    display: flex;
+    gap: 80px;
+}
+
+.faleconosco-form-title {
+    background-color: #144490;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    padding: 10px 0;
+    color: #FDC500;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.contactform-data-container {
+    padding: 10px 0;
+    display: flex;
+    gap: 22px;
+}
+
+.contactform-input {
+    font-family: 'Montserrat', sans-serif;
+    width: 801px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #414141;
+    border: 2px solid #144490;
+    border-radius: 10px;
+    padding: 0 0 0 10px;
+}
+
+.contactform-input-two {
+    font-family: 'Montserrat', sans-serif;
+    width: 382px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #414141;
+    border: 2px solid #144490;
+    border-radius: 10px;
+    padding: 0 0 0 10px;
+}
+
+.contactform-message-input {
+    font-family: 'Montserrat', sans-serif;
+    width: 801px;
+    height: 296px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #414141;
+    border: 2px solid #144490;
+    border-radius: 10px;
+    padding: 10px 0 0 10px ; 
+    resize: none; 
+}
+
+
+.contactform-submit {
+    width: 815px;
+    background-color: #144490;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+.swal2-title {
+    font-size: 1.6rem !important;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+  }
+
+.swal2-confirmButtonText {
+    font-family: 'Montserrat', sans-serif;
+}
